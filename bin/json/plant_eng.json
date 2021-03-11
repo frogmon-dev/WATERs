@@ -1,0 +1,182 @@
+{
+    "Lettuce": {
+        "day": {
+            "downto": 15,
+            "highlimit": 30,
+            "upto": 23
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 15,
+            "lowlimit": 5,
+            "upto": 23
+        }
+    },
+    "Kale": {
+        "day": {
+            "downto": 15,
+            "highlimit": 30,
+            "upto": 20
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 15,
+            "lowlimit": 5,
+            "upto": 20
+        }
+    },
+    "Onion": {
+        "day": {
+            "downto": 15,
+            "highlimit": 33,
+            "upto": 25
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 15,
+            "lowlimit": 4,
+            "upto": 25
+        }
+    },
+    "Spinach": {
+        "day": {
+            "downto": 15,
+            "highlimit": 34,
+            "upto": 21
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 10,
+            "lowlimit": 4,
+            "upto": 20
+        }
+    },  
+    "Cabbage": {
+        "day": {
+            "downto": 15,
+            "highlimit": 30,
+            "upto": 18
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 15,
+            "lowlimit": 5,
+            "upto": 18
+        }
+    }, 
+    "Chives": {
+        "day": {
+            "downto": 18,
+            "highlimit": 25,
+            "upto": 20
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 18,
+            "lowlimit": 5,
+            "upto": 20
+        }
+    }, 
+    "Strawberry": {
+        "day": {
+            "downto": 18,
+            "highlimit": 30,
+            "upto": 23
+        },
+        "land": {
+            "downto": 15,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 18
+        },
+        "night": {
+            "downto": 5,
+            "lowlimit": 3,
+            "upto": 10
+        }
+    },
+    "Cucumber": {
+        "day": {
+            "downto": 23,
+            "highlimit": 35,
+            "upto": 28
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 10,
+            "lowlimit": 8,
+            "upto": 15
+        }
+    },
+    "Tomato": {
+        "day": {
+            "downto": 20,
+            "highlimit": 35,
+            "upto": 25
+        },
+        "land": {
+            "downto": 15,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 18
+        },
+        "night": {
+            "downto": 8,
+            "lowlimit": 5,
+            "upto": 13
+        }
+    },
+    "Pimento": {
+        "day": {
+            "downto": 25,
+            "highlimit": 35,
+            "upto": 30
+        },
+        "land": {
+            "downto": 18,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 15,
+            "lowlimit": 12,
+            "upto": 20
+        }
+    }
+}

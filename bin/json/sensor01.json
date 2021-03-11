@@ -1,0 +1,12 @@
+{
+	"firmware": "3.2.1",
+	"conductivity": 264,
+	"temperature": 25.1,
+	"timestamp": "2021-01-21 09:32:28",
+	"name_pretty": "sensor01",
+	"light": 623,
+	"battery": 98,
+	"mac": "80:ea:ca:89:53:ae",
+	"name": "sensor01",
+	"moisture": 83
+}

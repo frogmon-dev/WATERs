@@ -42,8 +42,6 @@ backup/
 lib/
 
 # ignore for User Custom
-bin/json/*
-bin/logs/*.log
 bin/waterAgent*
 src/waterAgent
 src/makeSetup
