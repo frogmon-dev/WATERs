@@ -33,6 +33,7 @@ crontab -e
 
 <!-- 사용 방법 -->
 ## Usage
+bin 폴더에 실행파일 waterAgent 실행파일은 포함되어 있지 않습니다.
 
 <!-- 문제 해결 -->
 ## Troubleshooting
