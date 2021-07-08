@@ -45,3 +45,6 @@ lib/
 bin/waterAgent*
 src/waterAgent
 src/makeSetup
+src/waterAgent_Ginseng
+*.log
+*.csv

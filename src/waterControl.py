@@ -25,6 +25,7 @@ def revRelay(val):
 		return 1
 
 
+configFileNM = COM.gHomeDir+COM.gSetupFile
 controlFileNM = COM.gHomeDir+COM.gControlFile
 
 GPIO.setmode(GPIO.BCM)
@@ -57,7 +58,7 @@ try:
 	GPIO.output(LIGHT, GPIO.HIGH)
 	time.sleep(1)
 	
-	LOG.writeLn("[CONTROL] : h/w Control Start! ")
+	LOG.writeLn("[CONTROL] : h/w Control Start %s" % GLOB.readConfig(configFileNM, 'AGENT', 'id', '0'))
 	
 	while (True):	
 		time.sleep(1)
