@@ -178,5 +178,23 @@
             "lowlimit": 12,
             "upto": 20
         }
+    },
+    "새싹삼": {
+        "day": {
+            "downto": 20,
+            "highlimit": 25,
+            "upto": 22
+        },
+        "land": {
+            "downto": 16,
+            "highlimit": 25,
+            "lowlimit": 13,
+            "upto": 20
+        },
+        "night": {
+            "downto": 20,
+            "lowlimit": 15,
+            "upto": 22
+        }
     }
 }

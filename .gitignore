@@ -48,3 +48,4 @@ src/makeSetup
 src/waterAgent_Ginseng
 *.log
 *.csv
+*.ini

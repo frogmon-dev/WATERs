@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo python3 /home/pi/WATERs/src/waterSensor.py
+sudo python3 /home/pi/WATERs/src/waterSensor.py &
 
 chk_scan=`ps -eaf | grep "waterControl" | wc -l`
 if [ $chk_scan -eq 0 ]
